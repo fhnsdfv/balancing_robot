@@ -1,0 +1,12 @@
+Adeept_Balance2WD	KEYWORD1
+speedPiOut	KEYWORD2
+turnSpin	KEYWORD2
+pwma	KEYWORD2
+pulseright	KEYWORD2
+pulseleft	KEYWORD2
+posture	KEYWORD2
+stopl	KEYWORD2
+stopr	KEYWORD2
+angleoutput	KEYWORD2
+pwm1	KEYWORD2
+pwm2	KEYWORD2
